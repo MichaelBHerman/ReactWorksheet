@@ -1,5 +1,4 @@
-Each exercise will require the creation of a new component. Each component file should be created
-#Worksheet with React js exercises.
+This is a worksheet with exercises to introduce React JS.
 
 Each exercise will require the creation of a new component. Each component file should be created
 inside of a components folder within your exercise React project. Once the component is created,
